@@ -1,6 +1,6 @@
 
 
-# PDF Summarization Model
+# Ask to Pdf Model
 
  Link:  [https://huggingface.co/spaces/gautamkr/chatWithpdf](#)  <!-- Replace with the actual link to your model -->
 
