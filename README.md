@@ -2,7 +2,7 @@
 
 # Ask to Pdf Model
 
- Link:  [https://huggingface.co/spaces/gautamkr/chatWithpdf](#)  <!-- Replace with the actual link to your model -->
+ Link:  https://huggingface.co/spaces/gautamkr/chatWithpdf <!-- Replace with the actual link to your model -->
 
 ## Overview
 Developed an advanced PDF Summarization Model leveraging a Large Language Model (LLM) to facilitate interactive and intelligent conversation with PDF documents. This innovative application combines the power of natural language processing with an intuitive user interface, enabling users to efficiently query and extract insights from their documents in real-time.
