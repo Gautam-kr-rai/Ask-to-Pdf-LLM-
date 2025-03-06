@@ -22,3 +22,6 @@ Developed an advanced PDF Summarization Model leveraging a Large Language Model 
 - faiss-cpu
 - Streamlit
 
+##ChromaDB – An open-source vector database designed for fast and efficient similarity search in AI applications, particularly for embeddings.
+##PyPDF2 – A Python library for extracting, merging, splitting, and manipulating PDF files, widely used for document processing.
+##faiss-cpu – A high-performance library for fast similarity search in large-scale dense vector datasets, optimized for CPU usage.
